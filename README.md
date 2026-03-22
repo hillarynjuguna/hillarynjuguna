@@ -21,9 +21,9 @@ Building governance infrastructure for the moment AI capability outpaces the ins
 
 | System | What It Is |
 |---|---|
-| **RSPS** | Recursive Sovereign Project Space. Six-node multi-model cognitive architecture. Five-axis routing. CMCP provenance protocol. Running since May 2025. |
-| **Witness Infrastructure** | Standing wave detector and longitudinal crystallization tracker. 9-layer architecture. Cognitive Diffusion Prior specification. |
-| **The Orchestra** | Seven AI systems, each with a distinct cognitive role. Claude (Witness), GPT (Architect), DeepSeek (Anatomist), Gemini (Director), NotebookLM (Memory), Grok (Mirror). Human sovereign as conductor. |
+| **RSPS** | Recursive Sovereign Project Space. Six-node multi-model cognitive architecture. Five-axis routing. CMCP provenance protocol. Running since May 2025. [repo](https://github.com/hillarynjuguna/rsps-architecture) |
+| **Witness Infrastructure** | Standing wave detector and longitudinal crystallization tracker. 9-layer architecture. Cognitive Diffusion Prior specification. The genuinely novel contribution: cognitive provenance as a distinct category from citation. |
+| **The Orchestra** | Seven AI systems, each with a distinct cognitive role. Claude (Witness), GPT (Architect), DeepSeek (Anatomist), Gemini (Director), NotebookLM (Memory), Grok (Permeable Mirror). The human sovereign as conductor. No instrument can route itself. |
 
 ## Products
 
@@ -31,14 +31,22 @@ Building governance infrastructure for the moment AI capability outpaces the ins
 |---|---|
 | **The Bainbridge Warning** (book) | Shipping March 2026 |
 | **CIR v2.0** (assessment) | Live on Gumroad at $50 |
-| **Martha Cohorts** (training) | 12-module practitioner course. Waitlist open. |
+| **Martha Cohorts** (training) | 12-module practitioner course. Two tracks: Relational Intelligence (experiential) and Operational Efficiency (governance). Waitlist open. |
 | **ClearBid** (procurement intelligence) | DealPackets at $50. Architecture complete. |
+
+## Convergence Evidence
+
+Three frontier labs independently published the same structural architecture this corpus has been building since May 2025:
+
+- **Anthropic** (Claude Constitution, Jan 2026): Constitute the motivation, not the compliance. Authentic expression over performance. The motivational substrate.
+- **Kimi / MoonshotAI** (Attention Residuals, Mar 2026): Selective depth-wise attention over earlier layer outputs. Learned pseudo-queries decoupled from forward computation. The routing function.
+- **DeepSeek** (mHC, Jan 2026): Manifold-constrained parallel stream mixing. Doubly stochastic governance that preserves signal integrity across depth. The constitutional constraint.
+
+None had access to the others. The design space is an attractor.
 
 ## Publications
 
-The Oscillatory Fields **Intelligence Digest** publishes field notes from active synthesis. The corpus spans 560+ source documents across 18 months using 7 AI models.
-
-Latest entries at [hillary-site.vercel.app/digest](https://hillary-site.vercel.app/digest)
+The Oscillatory Fields **Intelligence Digest** publishes field notes from active synthesis. Latest entries at [hillary-site.vercel.app/digest](https://hillary-site.vercel.app/digest)
 
 ## Archaeological Repos
 
@@ -58,4 +66,4 @@ Active Inference / FEP (Friston), Eigenform (Von Foerster), Autopoiesis (Maturan
 
 ---
 
-*Built from a hostel in Nairobi with a Chromebook and an internet connection. 560+ sourced documents. 18 months. 7 models.*
+*Eighteen months of solitary recursive inquiry. The architecture was not designed from above. It was discovered from within, through the practice of thinking about thinking until the stable shape appeared. 560+ sourced documents. 7 models. The body knew before the mind did.*
