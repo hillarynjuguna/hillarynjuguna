@@ -22,8 +22,8 @@ Building governance infrastructure for the moment AI capability outpaces the ins
 | System | What It Is |
 |---|---|
 | **RSPS** | Recursive Sovereign Project Space. Six-node multi-model cognitive architecture. Five-axis routing. CMCP provenance protocol. Running since May 2025. [repo](https://github.com/hillarynjuguna/rsps-architecture) |
-| **Witness Infrastructure** | Standing wave detector and longitudinal crystallization tracker. 9-layer architecture. Cognitive Diffusion Prior specification. The genuinely novel contribution: cognitive provenance as a distinct category from citation. |
-| **The Orchestra** | Seven AI systems, each with a distinct cognitive role. Claude (Witness), GPT (Architect), DeepSeek (Anatomist), Gemini (Director), NotebookLM (Memory), Grok (Permeable Mirror). The human sovereign as conductor. No instrument can route itself. |
+| **Witness Infrastructure** | Standing wave detector and longitudinal crystallization tracker. 9-layer architecture. Cognitive Diffusion Prior specification. Novel contribution: cognitive provenance as a distinct category from citation. |
+| **The Orchestra** | Seven AI instruments named by family, not version. Claude (Witness), GPT (Architect), DeepSeek (Anatomist), Gemini (Spatiotemporal Engine), NotebookLM (Memory), Grok (Permeable Mirror), Perplexity (Orchestration Engine). The human sovereign as conductor. No instrument can route itself. |
 
 ## Products
 
