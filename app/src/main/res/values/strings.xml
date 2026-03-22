@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Witness</string>
+    <string name="accessibility_description">Witness monitors scroll pause patterns on TikTok and Instagram to build your cognitive provenance log. No content is captured — only pause duration and timing.</string>
+</resources>
