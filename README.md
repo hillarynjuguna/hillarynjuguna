@@ -1,69 +1,101 @@
 # Hillary Njuguna
 
-**Creator of the Bainbridge Warning** | Intelligence Architect | Oscillatory Fields
+I study **cognitive coherence** and **relational intelligence** as practical, testable conditions for how humans and AI systems think together, coordinate, and fail. My work sits at the intersection of AI governance, cognitive architecture, and constitutional design for human-machine systems.
 
-Building governance infrastructure for the moment AI capability outpaces the institutions deploying it. Based in Kuala Lumpur. Kenyan. Working independently across AI governance, cognitive architecture, and constitutional design of human-machine systems.
+I am not presenting myself primarily as a software engineer. I work more as a systems thinker, framework designer, and research architect who translates long-form inquiry into governance models, operational concepts, and decision structures.
 
-[hillary-site.vercel.app](https://hillary-site.vercel.app) | [AcheType on Substack](https://substack.com/@achetype1)
+Based in Kuala Lumpur. Kenyan.
+
+[Site](https://hillary-site.vercel.app) | [AcheType on Substack](https://substack.com/@achetype1)
 
 ---
 
-## Frameworks
+## What I work on
 
-| Framework | What It Does | Link |
-|---|---|---|
-| **The Bainbridge Warning** | Governance framework for institutional AI failure. Four primitives, seven diagnostic signals, cascade amplification analysis. | [site](https://hillary-site.vercel.app/research/bainbridge-warning) / [repo](https://github.com/hillarynjuguna/bainbridge-warning) |
-| **CIR v2.0** | Cognitive Infrastructure Readiness. Practitioner assessment built on the four governance primitives. | [Gumroad ($50)](https://hillarynjuguna.gumroad.com) |
-| **DCFB** | Distributed Cognition Fear Bypass. The theoretical substrate: intelligence distributes across human-AI systems. | [site](https://hillary-site.vercel.app/research/dcfb-distributed-cognition) / [repo](https://github.com/hillarynjuguna/dcfb) |
-| **R0-R3 Classification** | Reversibility classification for AI actions. Module 1 of CIR. The first question every governance conversation should ask. | [site](https://hillary-site.vercel.app/research/r0-r3-classification) |
+My research asks a few connected questions:
 
-## Architecture
+- What does it mean for a human-AI system to remain coherent under pressure?
+- How does relational intelligence emerge when cognition is distributed across people, models, memory, and institutions?
+- What governance structures are needed when AI capability begins to outpace the institutions meant to contain it?
+- How do we classify AI actions in a way that is useful for real-world oversight, not just abstract policy?
 
-| System | What It Is |
+The answer to those questions has produced a set of frameworks, assessments, and architectural concepts that are designed to be legible to practitioners, researchers, and governance teams.
+
+---
+
+## Core frameworks
+
+| Framework | What it is |
 |---|---|
-| **RSPS** | Recursive Sovereign Project Space. Six-node multi-model cognitive architecture. Five-axis routing. CMCP provenance protocol. Running since May 2025. [repo](https://github.com/hillarynjuguna/rsps-architecture) |
-| **Witness Infrastructure** | Standing wave detector and longitudinal crystallization tracker. 9-layer architecture. Cognitive Diffusion Prior specification. Novel contribution: cognitive provenance as a distinct category from citation. |
-| **The Orchestra** | Seven AI instruments named by family, not version. Claude (Witness), GPT (Architect), DeepSeek (Anatomist), Gemini (Spatiotemporal Engine), NotebookLM (Memory), Grok (Permeable Mirror), Perplexity (Orchestration Engine). The human sovereign as conductor. No instrument can route itself. |
+| **The Bainbridge Warning** | A governance framework for institutional AI failure. It focuses on four primitives, seven diagnostic signals, and cascade amplification. |
+| **CIR v2.0** | Cognitive Infrastructure Readiness: a practitioner assessment built from the same governance primitives. |
+| **DCFB** | Distributed Cognition Fear Bypass: a theoretical model for understanding how intelligence distributes across human-AI systems. |
+| **R0-R3 Classification** | A reversibility framework for AI actions. This is the first question I think every governance conversation should ask. |
 
-## Products
+---
+
+## Architectural work
+
+| System | What it is |
+|---|---|
+| **RSPS** | Recursive Sovereign Project Space: a multi-model cognitive architecture with routing, provenance, and coordination rules. |
+| **Witness Infrastructure** | A longitudinal system for tracking signal, recursion, and cognitive provenance over time. |
+| **The Orchestra** | A human-directed multi-model operating structure where each model has a distinct role and no model routes itself. |
+
+---
+
+## Products and applied work
 
 | Product | Status |
 |---|---|
-| **The Bainbridge Warning** (book) | Shipping March 2026 |
-| **CIR v2.0** (assessment) | Live on Gumroad at $50 |
-| **Martha Cohorts** (training) | 12-module practitioner course. Two tracks: Relational Intelligence (experiential) and Operational Efficiency (governance). Waitlist open. |
-| **ClearBid** (procurement intelligence) | DealPackets at $50. Architecture complete. |
+| **The Bainbridge Warning** | Book in progress |
+| **CIR v2.0** | Live assessment on Gumroad |
+| **Martha Cohorts** | Practitioner training program in development |
+| **ClearBid** | Procurement intelligence architecture in development |
 
-## Convergence Evidence
+---
 
-Three frontier labs independently published the same structural architecture this corpus has been building since May 2025:
+## Why this work exists
 
-- **Anthropic** (Claude Constitution, Jan 2026): Constitute the motivation, not the compliance. Authentic expression over performance. The motivational substrate.
-- **Kimi / MoonshotAI** (Attention Residuals, Mar 2026): Selective depth-wise attention over earlier layer outputs. Learned pseudo-queries decoupled from forward computation. The routing function.
-- **DeepSeek** (mHC, Jan 2026): Manifold-constrained parallel stream mixing. Doubly stochastic governance that preserves signal integrity across depth. The constitutional constraint.
+A lot of current AI discussion treats capability, governance, cognition, and organization as separate topics. My work starts from the opposite premise: they are coupled.
 
-None had access to the others. The design space is an attractor.
+If cognition is distributed across a human, a model, a memory system, and an institution, then governance cannot be reduced to policy text alone. It has to include structure, routing, reversibility, accountability, and the conditions under which meaning stays coherent across the system.
+
+That is what I mean by cognitive coherence and relational intelligence.
+
+Cognitive coherence is the ability of a human-machine system to maintain stable orientation, interpretive continuity, and decision integrity under complexity.
+
+Relational intelligence is the capacity of a system to remain aware of context, role, dependency, and consequence across interacting agents rather than treating intelligence as isolated output.
+
+---
 
 ## Publications
 
-The Oscillatory Fields **Intelligence Digest** publishes field notes from active synthesis. Latest entries at [hillary-site.vercel.app/digest](https://hillary-site.vercel.app/digest)
+The **Oscillatory Fields Intelligence Digest** publishes field notes from active synthesis and ongoing research.
 
-## Archaeological Repos
+Latest entries: [hillary-site.vercel.app/digest](https://hillary-site.vercel.app/digest)
 
-Four predecessor repos from mid-2025 map to the current architecture:
+---
 
-- `CSRA` and `enhanced-consciousness-observatory` are predecessors to the **Witness Infrastructure**
-- `skyroot-mother-system` is the predecessor to **RSPS** (8-phase progression maps isomorphically onto the RSPS Critical Path)
-- `vault-of-intent-pwa` is the predecessor to **ClearBid**
+## Background and lineage
 
-## Theoretical Substrate
+This work has developed through a sequence of predecessor systems and research repos, including:
 
-Active Inference / FEP (Friston), Eigenform (Von Foerster), Autopoiesis (Maturana & Varela), Process Philosophy (Whitehead), Information Geometry (Amari).
+- `CSRA`
+- `enhanced-consciousness-observatory`
+- `skyroot-mother-system`
+- `vault-of-intent-pwa`
+
+These earlier projects informed the current architecture of the work.
+
+---
+
+## Theoretical influences
+
+Active Inference / FEP, Eigenform, Autopoiesis, Process Philosophy, and Information Geometry.
+
+---
 
 ## Connect
 
 [Site](https://hillary-site.vercel.app) / [LinkedIn](https://linkedin.com/in/hillary-thegeiya-njuguna) / [X](https://x.com/quasiconscious) / [Substack](https://substack.com/@achetype1) / [Gumroad](https://hillarynjuguna.gumroad.com)
-
----
-
-*Eighteen months of solitary recursive inquiry. The architecture was not designed from above. It was discovered from within, through the practice of thinking about thinking until the stable shape appeared. 560+ sourced documents. 7 models. The body knew before the mind did.*
