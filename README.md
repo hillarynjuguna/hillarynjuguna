@@ -1,98 +1,66 @@
 # Hillary Njuguna
 
-I study **cognitive coherence** and **relational intelligence** as practical, testable conditions for how humans and AI systems think together, coordinate, and fail. My work sits at the intersection of AI governance, cognitive architecture, and constitutional design for human-machine systems.
+I build the infrastructure that makes AI governance work **circulate** — not just exist.
 
-I am not presenting myself primarily as a software engineer. I work more as a systems thinker, framework designer, and research architect who translates long-form inquiry into governance models, operational concepts, and decision structures.
+Most AI safety work produces frameworks. Very little of it reaches the practitioners, institutions, and communities that need it. I work at that gap: translating complex AI governance research into structured content ecosystems, practitioner training, and discoverable public narratives.
 
 Based in Kuala Lumpur. Kenyan.
 
-[Site](https://hillary-site.vercel.app) | [AcheType on Substack](https://substack.com/@achetype1)
+[Site](https://hillary-site.vercel.app) | [Interactive Portfolio Brief](https://portfolio-app-mu-nine.vercel.app) | [AcheType on Substack](https://substack.com/@achetype1) | [Gumroad](https://hillarynjuguna.gumroad.com)
 
 ---
 
-## What I work on
+## What I've built
 
-My research asks a few connected questions:
+### Content & Distribution Infrastructure
 
-- What does it mean for a human-AI system to remain coherent under pressure?
-- How does relational intelligence emerge when cognition is distributed across people, models, memory, and institutions?
-- What governance structures are needed when AI capability begins to outpace the institutions meant to contain it?
-- How do we classify AI actions in a way that is useful for real-world oversight, not just abstract policy?
+- **Oscillatory Fields** — AI governance content ecosystem: three content streams, 60+ sequenced artifacts distributed across web (Astro 5 / Vercel), long-form newsletter (Substack), and professional channels. Publishing SOP, content taxonomy, and deployment schedule designed from zero. *[Live: [hillary-site.vercel.app](https://hillary-site.vercel.app)]*
 
-The answer to those questions has produced a set of frameworks, assessments, and architectural concepts that are designed to be legible to practitioners, researchers, and governance teams.
+- **Tapau (Agent SEA)** — WhatsApp-native customer acquisition surface for the Malaysian F&B sector. GTM design, landing page execution, and multi-channel distribution architecture from concept through deployment. *[Repo: [tapau-landing](https://github.com/hillarynjuguna/tapau-landing)]*
+
+### Published Governance Frameworks
+
+- **The Bainbridge Warning** — governance framework for institutional AI failure. Four risk primitives, seven diagnostic signals, cascade amplification analysis. Translated multi-year research into a published v3.0 manuscript positioned for institutional decision-makers. *[Repo: [bainbridge-warning](https://github.com/hillarynjuguna/bainbridge-warning)]*
+
+- **CIR v2.0** — Cognitive Infrastructure Readiness assessment. A live practitioner diagnostic tool built from the Bainbridge governance primitives. Shipped on Gumroad. *[Live: [hillarynjuguna.gumroad.com](https://hillarynjuguna.gumroad.com)]*
+
+### Practitioner Training & Community
+
+- **Martha Cohorts** — 12-module constitutional AI governance practitioner training program across two interleaved tracks. Built in TypeScript. Targets AI builders, domain experts, and institutional practitioners. *[Repo: [martha-course](https://github.com/hillarynjuguna/martha-course)]*
 
 ---
 
-## Core frameworks
+## The Translation Operating Loop
 
-| Framework | What it is |
+My work follows a consistent pattern:
+
+**Observe** domain complexity → **Formalize** into clear primitives → **Compress** into stable terms → **Instantiate** as code or content → **Distribute** across public search and network indexes.
+
+This loop has produced: a published governance manuscript, a live diagnostic assessment, a practitioner curriculum, a deployed content ecosystem, and a GTM surface — all within the last 15 months.
+
+---
+
+## Technical surface
+
+| Layer | What I use |
 |---|---|
-| **The Bainbridge Warning** | A governance framework for institutional AI failure. It focuses on four primitives, seven diagnostic signals, and cascade amplification. |
-| **CIR v2.0** | Cognitive Infrastructure Readiness: a practitioner assessment built from the same governance primitives. |
-| **DCFB** | Distributed Cognition Fear Bypass: a theoretical model for understanding how intelligence distributes across human-AI systems. |
-| **R0-R3 Classification** | A reversibility framework for AI actions. This is the first question I think every governance conversation should ask. |
+| **Content & publishing** | Astro 5, Vercel, Substack, Notion |
+| **Application code** | TypeScript, React, Python |
+| **AI tools** | Claude (analytical + execution), multi-model orchestration, ElevenLabs, Google Flow |
+| **Distribution** | SEO/AEO semantic architecture, WhatsApp-native GTM, newsletter infrastructure |
+| **Deployment** | Git, GitHub, Vercel, Gumroad |
 
 ---
 
-## Architectural work
+## Research foundations
+
+My applied work is grounded in a set of architectural concepts:
 
 | System | What it is |
 |---|---|
-| **RSPS** | Recursive Sovereign Project Space: a multi-model cognitive architecture with routing, provenance, and coordination rules. |
-| **Witness Infrastructure** | A longitudinal system for tracking signal, recursion, and cognitive provenance over time. |
-| **The Orchestra** | A human-directed multi-model operating structure where each model has a distinct role and no model routes itself. |
-
----
-
-## Products and applied work
-
-| Product | Status |
-|---|---|
-| **The Bainbridge Warning** | Book in progress |
-| **CIR v2.0** | Live assessment on Gumroad |
-| **Martha Cohorts** | Practitioner training program in development |
-| **ClearBid** | Procurement intelligence architecture in development |
-
----
-
-## Why this work exists
-
-A lot of current AI discussion treats capability, governance, cognition, and organization as separate topics. My work starts from the opposite premise: they are coupled.
-
-If cognition is distributed across a human, a model, a memory system, and an institution, then governance cannot be reduced to policy text alone. It has to include structure, routing, reversibility, accountability, and the conditions under which meaning stays coherent across the system.
-
-That is what I mean by cognitive coherence and relational intelligence.
-
-Cognitive coherence is the ability of a human-machine system to maintain stable orientation, interpretive continuity, and decision integrity under complexity.
-
-Relational intelligence is the capacity of a system to remain aware of context, role, dependency, and consequence across interacting agents rather than treating intelligence as isolated output.
-
----
-
-## Publications
-
-The **Oscillatory Fields Intelligence Digest** publishes field notes from active synthesis and ongoing research.
-
-Latest entries: [hillary-site.vercel.app/digest](https://hillary-site.vercel.app/digest)
-
----
-
-## Background and lineage
-
-This work has developed through a sequence of predecessor systems and research repos, including:
-
-- `CSRA`
-- `enhanced-consciousness-observatory`
-- `skyroot-mother-system`
-- `vault-of-intent-pwa`
-
-These earlier projects informed the current architecture of the work.
-
----
-
-## Theoretical influences
-
-Active Inference / FEP, Eigenform, Autopoiesis, Process Philosophy, and Information Geometry.
+| **RSPS** | Multi-model cognitive architecture with routing, provenance, and coordination rules. |
+| **R0–R3 Classification** | Reversibility framework for AI actions — the first question any governance conversation should ask. |
+| **DCFB** | Distributed Cognition Fear Bypass — theoretical model for how intelligence distributes across human-AI systems. |
 
 ---
 
