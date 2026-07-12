@@ -1,69 +1,42 @@
 # Hillary Njuguna
 
-I build the infrastructure that makes AI governance work **circulate** — not just exist.
+I diagnose operational problems and build solutions using AI-assisted analysis. 
 
-Most AI safety work produces frameworks. Very little of it reaches the practitioners, institutions, and communities that need it. I work at that gap: translating complex AI governance research into structured content ecosystems, practitioner training, and discoverable public narratives.
+I help businesses find problems they can't see from the inside by building diagnostic tools and operational systems. 
 
 Based in Kuala Lumpur. Kenyan.
 
-[Site](https://hillary-site.vercel.app) | [Interactive Portfolio Brief](https://portfolio-app-mu-nine.vercel.app) | [AcheType on Substack](https://substack.com/@achetype1) | [Gumroad](https://hillarynjuguna.gumroad.com)
+[LinkedIn](https://linkedin.com/in/hillary-thegeiya-njuguna) | [Upwork](#)
 
 ---
 
-## What I've built
+## What I build
 
-### Content & Distribution Infrastructure
+### Process Diagnostics & Analysis
+- **Case File 04 (Operational Diagnostic)** — Conducted a 34-day embedded operational diagnostic of a hospitality business, cross-referencing five booking platforms against on-site observations. Identified a 43% listing accuracy gap, proposed a structured remediation playbook, and documented the methodology. 
 
-- **Oscillatory Fields** — AI governance content ecosystem: three content streams, 60+ sequenced artifacts distributed across web (Astro 5 / Vercel), long-form newsletter (Substack), and professional channels. Publishing SOP, content taxonomy, and deployment schedule designed from zero. *[Live: [hillary-site.vercel.app](https://hillary-site.vercel.app)]*
+### Multi-Model Systems & Provenance
+- **[Writ](https://github.com/hillarynjuguna/Writ)** — Contributed to a hybrid RAG knowledge retrieval engine. Executed systematic multi-phase development, pressure-run testing methodology (1,300+ passing tests), error recovery under constraints, and post-compact verification discipline.
+- **[Delta Instrument](https://github.com/hillarynjuguna/delta-instrument)** — Multi-model epistemic evaluation system (Diplomat/Witness/Adversary/Evaluator) built on Vercel serverless functions.
+- **[CPF Router](https://github.com/hillarynjuguna/cpf-router)** — Provenance handoff PWA with offline support, session vault, share/download capabilities, and SHA-256 integrity tracking.
 
-- **Tapau (Agent SEA)** — WhatsApp-native customer acquisition surface for the Malaysian F&B sector. GTM design, landing page execution, and multi-channel distribution architecture from concept through deployment. *[Repo: [tapau-landing](https://github.com/hillarynjuguna/tapau-landing)]*
-
-### Published Governance Frameworks
-
-- **The Bainbridge Warning** — governance framework for institutional AI failure. Four risk primitives, seven diagnostic signals, cascade amplification analysis. Translated multi-year research into a published v3.0 manuscript positioned for institutional decision-makers. *[Repo: [bainbridge-warning](https://github.com/hillarynjuguna/bainbridge-warning)]*
-
-- **CIR v2.0** — Cognitive Infrastructure Readiness assessment. A live practitioner diagnostic tool built from the Bainbridge governance primitives. Shipped on Gumroad. *[Live: [hillarynjuguna.gumroad.com](https://hillarynjuguna.gumroad.com)]*
-
-### Practitioner Training & Community
-
-- **Martha Cohorts** — 12-module constitutional AI governance practitioner training program across two interleaved tracks. Built in TypeScript. Targets AI builders, domain experts, and institutional practitioners. *[Repo: [martha-course](https://github.com/hillarynjuguna/martha-course)]*
-
----
-
-## The Translation Operating Loop
-
-My work follows a consistent pattern:
-
-**Observe** domain complexity → **Formalize** into clear primitives → **Compress** into stable terms → **Instantiate** as code or content → **Distribute** across public search and network indexes.
-
-This loop has produced: a published governance manuscript, a live diagnostic assessment, a practitioner curriculum, a deployed content ecosystem, and a GTM surface — all within the last 15 months.
+### Web Applications & GTM
+- **[Tapau Landing](https://github.com/hillarynjuguna/tapau-landing)** — WhatsApp-native customer acquisition surface for the F&B sector with dual AI provider cascade (OpenRouter + Mistral Direct fallback).
+- **[Interactive Portfolio](https://github.com/hillarynjuguna/translation-layer-portfolio)** — React/Vite portfolio application deployed on Vercel.
 
 ---
 
 ## Technical surface
 
-| Layer | What I use |
+| Layer | Technologies |
 |---|---|
-| **Content & publishing** | Astro 5, Vercel, Substack, Notion |
-| **Application code** | TypeScript, React, Python |
-| **AI tools** | Claude (analytical + execution), multi-model orchestration, ElevenLabs, Google Flow |
-| **Distribution** | SEO/AEO semantic architecture, WhatsApp-native GTM, newsletter infrastructure |
-| **Deployment** | Git, GitHub, Vercel, Gumroad |
-
----
-
-## Research foundations
-
-My applied work is grounded in a set of architectural concepts:
-
-| System | What it is |
-|---|---|
-| **RSPS** | Multi-model cognitive architecture with routing, provenance, and coordination rules. |
-| **R0–R3 Classification** | Reversibility framework for AI actions — the first question any governance conversation should ask. |
-| **DCFB** | Distributed Cognition Fear Bypass — theoretical model for how intelligence distributes across human-AI systems. |
+| **Application code** | React, TypeScript, Python, Rust |
+| **Architecture** | PWA, Serverless APIs, Ed25519 cryptography, RAG |
+| **AI Integration** | Claude, GPT-4, Mistral, multi-model orchestration |
+| **Deployment & CI/CD** | Vercel, GitHub Actions, Git |
 
 ---
 
 ## Connect
 
-[Site](https://hillary-site.vercel.app) / [LinkedIn](https://linkedin.com/in/hillary-thegeiya-njuguna) / [X](https://x.com/quasiconscious) / [Substack](https://substack.com/@achetype1) / [Gumroad](https://hillarynjuguna.gumroad.com)
+[LinkedIn](https://linkedin.com/in/hillary-thegeiya-njuguna) / [X](https://x.com/quasiconscious)
